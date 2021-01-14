@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: 'Volunteer Work and Talks'
-subtitle: To be updated soon..
+subtitle: To be updated soon...
 
 #content:
   # Page type to display. E.g. post, event, publication...
