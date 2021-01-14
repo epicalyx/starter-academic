@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 
 #date: "2013-07-01T00:00:00Z"
-#doi: ""
+doi: "https://doi.org/10.1109/BigMM50055.2020.00070"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -34,7 +34,7 @@ abstract: Adversarial Machine Learning has been gaining attention from the NLP c
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+#tags: []
 
 # Display this page in the Featured widget?
 featured: false
