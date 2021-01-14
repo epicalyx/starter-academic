@@ -26,7 +26,7 @@ doi: "https://doi.org/10.1109/BigMM50055.2020.00070"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE BigMM*
+publication: In *IEEE Sixth International Conference on Multimedia Big Data (BigMM)*
 #publication_short: In *ICW*
 
 abstract: Adversarial Machine Learning has been gaining attention from the NLP community due to low interpretability and low robustness of the current state-of-the-art systems. In this work, we study the effect of various adversarial attacks for detection of suicidal intent in social media setting. Suicide Ideation is a sensitive issue and is a leading cause of death. We show how various models are rendered useless after attacks and perform adversarial training using the most ideal attacks to improve their robustness. We also conduct several experiments with the attacks to study their effect and propose an approach for adversarial training using Generative Adversarial Networks.
