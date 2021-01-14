@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-#date: "2013-07-01T00:00:00Z"
+date: "2020-10-20T00:00:00Z"
 doi: "https://doi.org/10.1109/BigMM50055.2020.00070"
 
 # Schedule page publish date (NOT publication's date).
