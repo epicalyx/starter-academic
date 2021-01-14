@@ -1,5 +1,6 @@
 ---
-title: "An example conference paper"
+title: "Adversarial Machine Learning for Self Harm Disclosure Analysis (Workshop Paper)
+"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,12 +9,12 @@ authors:
 - admin
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
 #date: "2013-07-01T00:00:00Z"
-doi: ""
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
