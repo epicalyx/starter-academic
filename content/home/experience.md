@@ -47,7 +47,5 @@ experience:
     date_start: '2019-06-1'
     date_end: '2019-12-31'
     description: Worked on a healthcare project and developed classification models using deep learning for early diagnosis of Acute Lymphoblastic
-    Leukemia in collaboration with [Peter Moss AML/ALL AI Research](https://www.petermossamlallresearch.com/)
-    
-    
+    Leukemia in collaboration with [Peter Moss AML/ALL AI Research](https://www.petermossamlallresearch.com/)    
 ---
