@@ -39,4 +39,5 @@ experience:
     location: California, US
     date_start: '2020-08-20'
     date_end: '2020-10-30'
+    description: Collaborated with 60 developers worldwide towards an [initiative](https://omdena.com/projects/children-violence/) to protect children from online harassment
 ---
