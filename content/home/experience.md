@@ -31,7 +31,7 @@ experience:
     description: |2-
         
         * Researched and experimented with black box and white box adversarial attacks on problems in computational social science
-        * Worked on financial risk forecasting, leveraging multimodal analysis and affective computing.
+        * Worked on financial risk forecasting, leveraging multimodal analysis and affective computing
         
   - title: Junior Machine Learning Engineer Intern
     company: Omdena
