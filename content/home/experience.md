@@ -42,8 +42,8 @@ experience:
     description: Collaborated with 60 developers worldwide towards an [initiative](https://omdena.com/projects/children-violence/) to protect children from online harassment
     
   - title: Research Intern
-    company: University of Delhi
-    #company_url: 
+    company: University of Delhi (In collaboration with Peter Moss AML/ALL AI Research project)
+    company_url: 'https://www.petermossamlallresearch.com/'
     location: New Delhi, India
     date_start: '2019-06-01'
     date_end: '2019-12-31'
