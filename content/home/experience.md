@@ -28,7 +28,11 @@ experience:
     location: New Delhi, India
     date_start: '2020-01-01'
     date_end: '2020-11-15'
-    
+    description: |2-
+        
+        * Researched and experimented with black box and white box adversarial attacks on problems in computational social science
+        * Worked on financial risk forecasting, leveraging multimodal analysis and affective computing.
+        
   - title: Junior Machine Learning Engineer Intern
     company: Omdena
     company_url: 'https://omdena.com/'
