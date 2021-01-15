@@ -24,14 +24,14 @@ date_format: Jan 2006
 experience:
   - title: Research Intern
     company: MIDAS Lab - IIITD
-    company_url: ''
+    company_url: 'http://midas.iiitd.edu.in/'
     location: New Delhi, India
     date_start: '2020-01-01'
     date_end: '2020-11-15'
     
   - title: Junior Machine Learning Engineer Intern
     company: Omdena
-    company_url: ''
+    company_url: 'https://omdena.com/'
     location: California, US
     date_start: '2020-08-20'
     date_end: '2020-10-30'
