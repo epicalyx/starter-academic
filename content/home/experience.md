@@ -28,7 +28,8 @@ experience:
     location: New Delhi, India
     date_start: '2020-01-01'
     date_end: '2020-11-15'
-    description: * Research on Adversarial Machine Learning for problems in computational social science
+    description: |2-
+    * Research on Adversarial Machine Learning for problems in computational social science
     * Worked on financial risk forecasting, leveraging multimodal analysis and affective computing
         
   - title: Junior Machine Learning Engineer Intern
