@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 70
 
 title: Experience
 subtitle:
@@ -22,24 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Research Intern
+    company: MIDAS Lab - IIITD
+    company_url: 'http://midas.iiitd.edu.in/'
+    location: New Delhi, India
+    date_start: '2020-01-01'
+    date_end: '2020-11-15'
+    description: * Research on Adversarial Machine Learning for problems in computational social science
+    * Worked on financial risk forecasting, leveraging multimodal analysis and affective computing
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Junior Machine Learning Engineer Intern
+    company: Omdena
+    company_url: 'https://omdena.com/'
+    location: California, US
+    date_start: '2020-08-20'
+    date_end: '2016-10-30'
 ---
