@@ -40,4 +40,12 @@ experience:
     date_start: '2020-08-20'
     date_end: '2020-10-30'
     description: Collaborated with 60 developers worldwide towards an [initiative](https://omdena.com/projects/children-violence/) to protect children from online harassment
+    
+  - title: Research Intern
+    company: University of Delhi
+    #company_url: 
+    location: New Delhi, India
+    date_start: '2019-06-01'
+    date_end: '2019-12-31'
+    description: Worked on a healthcare project and developed classification models using deep learning for early diagnosis of Acute Lymphoblastic Leukemia   
 ---
