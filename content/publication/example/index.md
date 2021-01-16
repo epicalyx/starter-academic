@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9232606&casa_token=o8vSX1bHocYAAAAA:9486mHEOP0_chLByrXCgMLBnvl-wzGoIvJbppIr3dBRsQJOqe1Z8zXrL9eopX_qG-wRHDCjoPr7Ljw&tag=1'
+url_pdf: 'https://drive.google.com/file/d/1Iayoed9exMxq6kDb5St-n-EhuGZ3yiEF/view?usp=sharing'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
