@@ -15,7 +15,10 @@ authors:
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2020-10-25"
 doi: "10.21437/Interspeech.2020-2649"
