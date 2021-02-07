@@ -33,7 +33,7 @@ experience:
         * Researched and experimented with black box and white box adversarial attacks on problems in computational social science
         * Worked on financial risk forecasting, leveraging multimodal analysis and affective computing
         
-  - title: Junior Machine Learning Engineer Intern
+  - title: Junior Machine Learning Engineer
     company: Omdena
     company_url: 'https://omdena.com/'
     location: California, US
