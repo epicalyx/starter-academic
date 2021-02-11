@@ -23,4 +23,7 @@ design:
 * **[Dec 2020]**: Awarded travel grant to attend NeurIPS 2020 as a WiML volunteer
 * **[Dec 2020]**: Accepted into the [ACM India Winter School 2020](https://india.acm.org/education/acm-india-winter-schools-2020)
 * **[Nov 2020]**: Awarded travel grant to attend EMNLP 2020 as a volunteer
+* **[Nov 2020]**: Contributing to paper reading sessions at [WING NUS Public Reading Group](https://wing-nus.github.io/cs6101/) and project showcase at [STePs](https://isteps.comp.nus.edu.sg/event/17th-steps/module/CS6101)!
+* **[Sept 2020]**: Presenting my [work](https://drive.google.com/file/d/1Iayoed9exMxq6kDb5St-n-EhuGZ3yiEF/view) at IEEE BigMM 2020!
+
 
