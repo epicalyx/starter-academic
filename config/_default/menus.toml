@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Volunteer Work and Talks"
-  url = "#volunteer-work-and-talks"
+  name = "Volunteer Work and Open Source"
+  url = "#volunteer-work-and-open-source"
   weight = 40
 
 [[main]]
