@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: 'Volunteer Work and Talks'
+title: 'Volunteer Work and Open Source'
 subtitle: To be updated soon...
 
 #content:
