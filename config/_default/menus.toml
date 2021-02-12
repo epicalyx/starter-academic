@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Blog"
-  url = "#blog"
+  url = "https://taru-jain.netlify.app/blog/"
   weight = 60
 
 [[main]]
