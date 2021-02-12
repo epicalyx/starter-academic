@@ -18,7 +18,7 @@ height: 300px
 
 item:
   - title: PLIO
-    content: 'HCI Research'
+    #content: 'HCI Research'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -29,21 +29,29 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    #cta_label: PLIO 
-    #cta_url: 'https://plio.in/'
+    cta_label: Volunteering as part of HCI Research team
+    cta_url: 'https://plio.in/team'
     #cta_icon_pack: fas
     #cta_icon: graduation-cap
-  - title: Google Explore ML
-    content: 'Co-Facilitator'
+  - title: Google Code-in
+    #content: 'Mentor for Tensorflow Organization'
     align: center
     overlay_color: '#555'
-    overlay_img: ''
+    overlay_img: bubbles.jpg
+    overlay_filter: 0.5
+    cta_label: Mentor for Tensorflow Organization
+    cta_url: 'https://drive.google.com/file/d/1GCeIPSWsXXcvK3du5NkOn0qdvaesG732/view?usp=sharing'
+  - title: Google Explore ML
+    content: 'Co-Facilitator at ADGITM, GGSIPU'
+    align: center
+    overlay_color: '#555'
+    overlay_img: bubbles.jpg
     overlay_filter: 0.5
   - title: Kaggle Days Community Meetup Delhi
-    content: 'Content Development Team [Oct 2019 - Feb 2020]'
+    content: 'Volunteering as part of Content Development Team [Oct 2019 - Feb 2020]'
     align: center
     overlay_color: '#333'
-    overlay_img: ''
+    overlay_img: bubbles.jpg
     overlay_filter: 0.5
 
 #content:
