@@ -67,3 +67,5 @@ highlight_name: false
 I am a senior year undergraduate student, pursuing majors in Information Technology. My primary research interests are centered around computational social science, mental health analysis and under-served communities. I am passionate about understanding real life challenges, behavior and coping mechanisms of the marginalized communities as they get reflected through their social media activities and exploring solutions to promote prosocial behavior in online spaces. 
 
 I recently concluded my Research Internship at [MIDAS-IIITD](http://midas.iiitd.edu.in/) under the supervision of Dr. Rajiv Ratn Shah. Previously, I worked with Dr. Amita Kapoor in University of Delhi on projects at the intersection of computer vision and healthcare. 
+
+I am actively seeking research internship/assistance in the research domains mentioned below. In case you come across or have any opportunity, please write to me [here](mailto:jaintaru@ieee.org)!
