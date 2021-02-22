@@ -18,9 +18,10 @@ role: Undergrad Researcher
 
 # Interests to show in About widget
 interests:
-- Computational Social Science
-- Mental Well Being & Behavioral Science
 - Social Computing
+- Mental Well Being & Behavioral Science
+- Computational Social Science
+
 
 # Education to show in About widget
 education:
