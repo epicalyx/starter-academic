@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "2"
 ---
-
+* **[Mar 2021]**: Long paper on *Multitask Learning  for Emotionally Analyzing Sexual Abuse Disclosures* accepted at [NAACL 2021](https://2021.naacl.org/)!
 * **[Feb 2021]**: Excited to join [PLIO](https://plio.in/) as a volunteer in HCI Research!
 * **[Dec 2020]**: Awarded travel grant to attend NeurIPS 2020 as a WiML volunteer.
 * **[Dec 2020]**: Accepted into the [ACM India Winter School 2020](https://india.acm.org/education/acm-india-winter-schools-2020).
