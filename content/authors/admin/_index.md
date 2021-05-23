@@ -20,7 +20,7 @@ role: Undergrad Researcher
 interests:
 - Social Computing
 - Mental Well Being & Behavioral Science
-- Computational Social Science
+- ICTD
 
 
 # Education to show in About widget
@@ -65,8 +65,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a senior year undergraduate student, pursuing majors in Information Technology. My primary research interests are centered around social computing, mental health analysis and under-served communities. I am passionate about understanding real life challenges, behavior and coping mechanisms of the marginalized communities as they get reflected through their social media activities and exploring solutions to promote prosocial behavior in online spaces. 
+I am a senior year undergraduate student, pursuing majors in Information Technology. My primary research interests are centered around employing social computing and qualitative research to study and design for mental well-being of under-served communities. I am passionate about understanding real life challenges, behavior and coping mechanisms of the marginalized communities as they get reflected through their social media activities and exploring solutions to promote prosocial behavior in online spaces. 
 
-I recently concluded my Research Internship at [MIDAS-IIITD](http://midas.iiitd.edu.in/) under the supervision of Dr. Rajiv Ratn Shah. Previously, I worked with Dr. Amita Kapoor in University of Delhi on projects at the intersection of computer vision and healthcare. 
+I have worked as a Research Intern at [MIDAS-IIITD](http://midas.iiitd.edu.in/) under the supervision of Dr. Rajiv Ratn Shah, on projects based on computational social science. Previously, I have also collaborated with Dr. Amita Kapoor in University of Delhi on projects at the intersection of computer vision and healthcare. 
 
 I am actively seeking research internship/assistance in the research domains mentioned below. In case you come across or have any opportunity, please write to me [here](mailto:jaintaru@ieee.org)!
