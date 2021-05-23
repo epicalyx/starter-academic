@@ -65,7 +65,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a senior year undergraduate student, pursuing majors in Information Technology. My primary research interests are centered around employing social computing and qualitative research to study and design for mental well-being of under-served communities. I am passionate about understanding real life challenges, behavior and coping mechanisms of the marginalized communities as they get reflected through their social media activities and exploring solutions to promote prosocial behavior in online spaces. 
+I am a senior year undergraduate student, pursuing majors in Information Technology. My primary research interests are centered around employing social computing and qualitative research to study and design for mental well-being of underserved communities. I am passionate about understanding real life challenges, behavior and coping mechanisms of the marginalized communities as they get reflected through their social media activities and exploring solutions to promote prosocial behavior in online spaces. 
 
 I have worked as a Research Intern at [MIDAS-IIITD](http://midas.iiitd.edu.in/) under the supervision of Dr. Rajiv Ratn Shah, on projects based on computational social science. Previously, I have also collaborated with Dr. Amita Kapoor in University of Delhi on projects at the intersection of computer vision and healthcare. 
 
