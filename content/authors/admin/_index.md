@@ -18,9 +18,9 @@ role: Undergrad Researcher
 
 # Interests to show in About widget
 interests:
-- Social Computing
-- Mental Well Being & Behavioral Science
 - ICTD
+- Social Computing
+- Mental Well-Being & Behavioral Science
 
 
 # Education to show in About widget
