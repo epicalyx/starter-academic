@@ -71,11 +71,5 @@ url_pdf: "https://aclanthology.org/2021.naacl-main.387.pdf"
 #projects:
 #- example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-#slides: example
 ---
 
