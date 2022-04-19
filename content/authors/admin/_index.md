@@ -6,26 +6,29 @@ title: Taru Jain
 superuser: true
 
 # Role/position/tagline
-role: Undergrad Researcher
+role: Graduate Research Scholar
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#- name: Stanford University
- # url: https://www.stanford.edu/
+organizations:
+- name: International Institute of Information Technology, Bangalore
+  url: https://www.iiitb.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- ICTD
-- Social Computing
-- Mental Well-Being & Behavioral Science
+- Gender and Healthcare
+- Human-Computer Interaction
+- User Experience Research
+- Science and Technology Studies
 
 
 # Education to show in About widget
 education:
   courses:
+  - course: MS by Research, Information Technology & Society
+    institution: International Institute of Information Technology, Bangalore
   - course: B.Tech in Information Technology
     institution: GGSIPU, New Delhi, India
     year: 2021
@@ -65,6 +68,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a senior year undergraduate student, pursuing majors in Information Technology. My primary research interests are centered around employing social computing and qualitative research to study and design for mental well-being of underserved communities. I am passionate about understanding real life challenges, behavior and coping mechanisms of the marginalized communities as they get reflected through their social media activities and exploring solutions to promote prosocial behavior in online spaces. 
+I am currently pursuing research at the intersection of Gender, Healthcare and Technology as a [graduate research student](http://citapp.3it.in/students/taru-jain/) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/), with the supervision of [Prof. Preeti Mudliar](https://preetimudliar.work/). My primary research area of focus is understanding *Communication Patterns and Management of Enigmatic Menstrual Health Conditions in India*, and I have been conducting qualitative research studies for the same since the past 6 months. 
 
-I have worked as a Research Intern at [MIDAS-IIITD](http://midas.iiitd.edu.in/) under the supervision of Dr. Rajiv Ratn Shah, on projects based on computational social science. Previously, I have also collaborated with Dr. Amita Kapoor in University of Delhi on projects at the intersection of computer vision and healthcare. 
+Prior to this, I completed my B.Tech in Information Technology and have worked as a Machine Learning Research Intern at various places like [MIDAS-IIITD](http://midas.iiitd.edu.in/) and [Omdena](https://omdena.com/), where I contributed to projects based on computational social science, computer vision and healthcare. 
